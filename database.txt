@@ -1,0 +1,162 @@
+# Warszawa 55.2209 N 21.005 E
+# Berlin 52.5201 N 13.405 E
+# Praga 50.0803 N 14.4203 E
+# Bratyslawa 48.1382 N 17.1004 E
+# Minsk 53.9 N 27.55 E
+# Kijow 50.45 N 30.5 E
+# Moskwa 55.75 N 37.62 E
+# Sztokholm 59.33 N 18.05 E
+# Oslo 59.9008 N 10.7336 E
+# Paryz 48.8666 N 2.35 E
+# Rzym 41.8833 N 12.4833 E
+# Wilno 54.6833 N 25.2833 E
+# Tallinn 59.4333 N 24.75 E
+# Ryga 56.9666 N 24.1333 E
+# Helsinki 60.1666 N 24.9333 E
+# Kopenhaga 55.6666 N 12.5666 E
+# Londyn 51.5 N 0.1166 W
+# Bruksela 50.8333 N 4.35 E
+# Amsterdam 52.3666 N 4.9 E
+# Luksemburg 49.6112 N 6.1298 E
+# Reykjavik 64.1286 N 21.9372 W
+# Madryt 40.4152 N 3.7073 W
+# Lizbona 38.7323 N 9.1381 W
+# Stambul 41.0338 N 29.0066 E
+# Zagrzeb 45.813 N 15.9748 E
+# Belgrad 44.8019 N 20.4702 E
+# Sarajewo 43.8561 N 18.414 E
+# Sofia 42.6945 N 23.3211 E
+# Valetta 35.8582 N 14.479 E
+# Ateny 37.9787 N 23.728 E
+# Bukareszt 44.431 N 26.1004 E
+# Budapeszt 47.4987 N 19.0581 E
+# Kiszyniow 47.0198 N 28.8416 E
+# San-Marino 43.9344 N 12.4468 E
+# Andora 42.5709 N 1.5298 E
+# Liechtenstein 47.1402 N 9.5217 E
+# Berno 46.9479 N 7.445 E
+# Wieden 48.2078 N 16.3705 E
+# Ljubljana 46.0527 N 14.5055 E
+# Dublin 53.3483 N 6.2645 W
+# Nuuk 64.1909 N 51.6754 W
+# Podgorica 42.3602 N 19.2433 E
+# Tirana 41.321 N 19.8167 E
+# Skopje 41.996 N 21.4326 E
+# Thorshavn 62.0098 N 6.7738 W
+# Prisztina 42.6547 N 21.1602 E
+.
+# Warszawa Berlin
+# Warszawa Praga
+# Warszawa Bratyslawa
+# Warszawa Minsk
+# Warszawa Moskwa
+# Warszawa Kijow
+# Warszawa Sztokholm
+# Warszawa Oslo
+# Warszawa Paryz
+# Warszawa Rzym
+# Warszawa Wilno
+# Warszawa Helsinki
+# Warszawa Kopenhaga
+# Warszawa Londyn
+# Warszawa Bruksela
+# Warszawa Amsterdam
+# Warszawa Madryt
+# Warszawa Lizbona
+# Warszawa Stambul
+# Warszawa Zagrzeb
+# Warszawa Sofia
+# Warszawa Ateny
+# Warszawa Bukareszt
+# Warszawa Budapeszt
+# Warszawa Berno
+# Warszawa Wieden
+# Warszawa Dublin
+# Warszawa Ljubljana
+# Berlin Praga
+# Berlin Bratyslawa
+# Berlin Minsk
+# Berlin Kijow
+# Berlin Moskwa
+# Berlin Sztokholm
+# Berlin Oslo
+# Berlin Paryz
+# Berlin Rzym
+# Berlin Tallinn
+# Berlin Ryga
+# Berlin Helsinki
+# Berlin Kopenhaga
+# Berlin Londyn
+# Berlin Bruksela
+# Berlin Amsterdam
+# Berlin Reykjavik
+# Berlin Madryt
+# Berlin Lizbona
+# Berlin Stambul
+# Berlin Zagrzeb
+# Berlin Belgrad
+# Berlin Sarajewo
+# Berlin Sofia
+# Berlin Ateny
+# Berlin Bukareszt
+# Berlin Budapeszt
+# Berlin Wieden
+# Berlin Berno
+# Berlin Ljubljana
+# Berlin Dublin
+# Berlin Podgorica
+# Berlin Tirana
+# Praga Bratyslawa
+# Praga Minsk
+# Praga Kijow
+# Praga Moskwa
+# Praga Sztokholm
+# Praga Oslo
+# Praga Paryz
+# Praga Rzym
+# Praga Wilno
+# Praga Helsinki
+# Praga Kopenhaga
+# Praga Londyn
+# Praga Bruksela
+# Praga Amsterdam
+# Praga Madryt
+# Praga Lizbona
+# Praga Belgrad
+# Praga Zagrzeb
+# Praga Sarajewo
+# Praga Sofia
+# Praga Ateny
+# Praga Bukareszt
+# Praga Budapeszt
+# Praga Berno
+# Praga Wieden
+# Praga Ljubljana
+# Praga Dublin
+# Praga Podgorica
+# Praga Skopje
+# Bratyslawa Minsk
+# Bratyslawa Kijow
+# Bratyslawa Moskwa
+# Bratyslawa Sztokholm
+# Bratyslawa Oslo
+# Bratyslawa Rzym
+# Bratyslawa Paryz
+# Bratyslawa Wilno
+# Bratyslawa Kopenhaga
+# Bratyslawa Londyn
+# Bratyslawa Bruksela
+# Bratyslawa Amsterdam
+# Bratyslawa Madryt
+# Bratyslawa Lizbona
+# Bratyslawa Belgrad
+# Bratyslawa Zagrzeb
+# Bratyslawa Sofia
+# Bratyslawa Ateny
+# Bratyslawa Berno
+# Bratyslawa Wieden
+# Bratyslawa Ljubljana
+# Bratyslawa Dublin
+# Bratyslawa Podgorica
+# Bratyslawa Prisztina
+!
